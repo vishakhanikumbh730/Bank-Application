@@ -1,7 +1,5 @@
 package org.cap.dao;
-
 import org.cap.dto.Account;
-import org.cap.dto.Customer;
 
 public interface AccountDao {
 	
